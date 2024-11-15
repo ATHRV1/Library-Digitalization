@@ -31,6 +31,10 @@ Example
 python
 
 # Example of adding a book and searching for keywords
-library = DigitalLibrary()
-library.add_text("sample_book.txt")       # Add book to the library
-library.search_keyword("example_keyword") # Search for a specific keyword
+# find =JGBLibrary("Bezos",(5,4,4,50))
+# text=["Harry", "Potter", "is", "about", "a", "young", "wizard", "facing", "adventures", "with", "his", "friends", "against", "dark", "forces"]
+# find.add_book("HarryPotter",text)
+# print(find.distinct_words("HarryPotter"))
+# print(find.count_distinct_words("HarryPotter"))
+# print(find.search_keyword("is"))
+# find.print_books()
